@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="fastfood">FAST FOOD</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="nosotros">SOBRE NOSOTROS</string>
+    <string name="italiano">SANDWICH ITALIANO</string>
+    <string name="chacarero">SANDWICH CHACARERO</string>
+    <string name="barros">SANDWICH BARROS LUCO</string>
+    <string name="hawaiano">SANDWICH HAWAIANO</string>
+    <string name="chorrillano">SANDWICH CHORRILLANO</string>
+    <string name="quienessomos">SOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES!
+    LOS MEJORES DE LA ZONA. SI NO CHORREA NO ES FAST FOOD!!</string>
+    <string name="descripItaliano">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA, 2 PALTAS GRANDECITAS, TOMATE
+    MAYONESA QUE REPOSAN SOBRE 2 PANES FRICA</string>
+    <string name="precioItaliano">PRECIO: $3500</string>
+    <string name="descripChacarero">CONTIENE 400 GRAMOS DE BISTEC DE POSTA NEGRA, TOMATE, POROTOS VERDES Y
+        MAYONESA QUE REPOSAN SOBRE 2 PANES FRICA</string>
+    <string name="precioChacarero">PRECIO: $4000</string>
+    <string name="descripBarros">CONTIENE 500 GRAMOS DE BISTEC DE POSTA NEGRA, 500 GRAMOS DE QUESO
+        QUE REPOSAN SOBRE 2 PANES FRICA</string>
+    <string name="precioBarros">PRECIO: $3000</string>
+    <string name="descripHawaiano">CONTIENE 400 GRAMOS DE POLLO, TROCITOS DE PIÑA, TOMATE QUE REPOSAN SOBRE 2 PANES FRICA</string>
+    <string name="precioHawaiano">PRECIO: $4500 </string>
+    <string name="descripChorrillano">CONTIENE 400 GRAMOS DE BISTEC DE CARNE MECHADA, 2 CEBOLLAS GRANDECITAS FRITAS, TOMATE, HUEVO,
+        Y MAYONESA QUE REPOSAN SOBRE 2 PANES FRICA</string>
+    <string name="precioChorrillano">PRECIO: $5000 </string>
+    <string name="logo">logo</string>
+    <string name="detalle">DETALLE </string>
+    <string name="detalleS">detalle</string>
+</resources>

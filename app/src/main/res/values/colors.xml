@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="turquesa">#26A694</color>
+    <color name="white">#FFFFFF</color>
+    <color name="verdeagua">#EDFFEA</color>
+    <color name="verdecaribe">#75DAAD</color>
+    <color name="verdeopaco">#216353</color>
+    <color name="cafe">#7A4D1D</color>
+</resources>
